@@ -1,0 +1,48 @@
+{
+    "Delirios":{
+        "ProbInd":0.004,
+        "ProbCond":0.931
+    },
+    "Alucinciones":{
+        "ProbInd":0.387,
+        "ProbCond":0.895
+    },
+    "DiscursoDesorg":{
+        "ProbInd":0.009,
+        "ProbCond":0.52
+    },
+    "ComportamientoDesorg":{
+        "ProbInd":0.013,
+        "ProbCond":0.77
+    },
+    "AnimoBajo":{
+        "ProbInd":0.751,
+        "ProbCond":0.22
+    },
+    "NoPlacer":{
+        "ProbInd":0.15,
+        "ProbCond":0.025
+    },
+    "DeterioroSocial":{
+        "ProbInd":0.6,
+        "ProbCond":0.897
+    },
+    "DeterioroPersonal":{
+        "ProbInd":0.512,
+        "ProbCond":0.683
+    },
+    "DeterioroLaboral": {
+        "ProbInd": 0.74,
+        "ProbCond": 0.925
+    },
+    "NoSustancias": {
+        "ProbInd": 0.1087,
+        "ProbCond": 0.75
+    },
+    "Autismo": {
+        "ProbInd": 0.01,
+        "ProbCond": 0.000001
+    },
+    "ProbInd": 0.0021,
+    "ProbActual": 0
+}

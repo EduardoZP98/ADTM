@@ -1,0 +1,32 @@
+{
+    "ObComp": {
+        "ProbInd": 0.018,
+        "ProbCond": 0.91
+    },
+    "OCTiempo": {
+        "ProbInd": 0.025,
+        "ProbCond": 0.73
+    },
+    "DeterioroSocial": {
+        "ProbInd": 0.6,
+        "ProbCond": 0.55
+    },
+    "NoSustancias": {
+        "ProbInd": 0.1087,
+        "ProbCond": 0.000001
+    },
+    "Ansiedad": {
+        "ProbInd": 0.0319,
+        "ProbCond": 0.000001
+    },
+    "Tics": {
+        "ProbInd": 0.125,
+        "ProbCond": 0.88
+    },
+    "Introspeccion": {
+        "ProbInd": 0.37,
+        "ProbCond": 0.19
+    },
+    "ProbInd": 0.026,
+    "ProbActual": 0
+}

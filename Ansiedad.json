@@ -1,0 +1,48 @@
+{
+    "Preocupacion": {
+        "ProbInd": 0.7,
+        "ProbCond": 0.92
+    },
+    "NoControlP": {
+        "ProbInd": 0.5,
+        "ProbCond": 0.75
+    },
+    "Inquietud":{
+        "ProbInd": 0.66,
+        "ProbCond": 0.95
+    },
+    "Fatiga":{
+        "ProbInd": 0.459,
+        "ProbCond": 0.852
+    },
+    "NoConcentracion":{
+        "ProbInd": 0.16,
+        "ProbCond": 0.65
+    },
+    "Irritabilidad":{
+        "ProbInd": 0.66,
+        "ProbCond": 0.8756
+    },
+    "TensionM":{
+        "ProbInd": 0.285,
+        "ProbCond": 0.55
+    },
+    "Insomnio":{
+        "ProbInd": 0.56,
+        "ProbCond": 0.96
+    },
+    "DeterioroSocial": {
+        "ProbInd": 0.6,
+        "ProbCond": 0.58
+    },
+    "NoSustancias": {
+        "ProbInd": 0.1087,
+        "ProbCond": 99.99
+    },
+    "TOC": {
+        "ProbInd": 0.026,
+        "ProbCond": 0.000001
+    },
+    "ProbInd": 0.0319,
+    "ProbActual": 0
+}

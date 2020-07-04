@@ -1,0 +1,56 @@
+{
+    "AnimoBajo":{
+        "ProbInd":0.751,
+        "ProbCond":0.925
+    },
+    "NoPlacer":{
+        "ProbInd":0.15,
+        "ProbCond":0.713
+    },
+    "Peso":{
+        "ProbInd":0.56,
+        "ProbCond":0.49
+    },
+    "Insomnio":{
+        "ProbInd":0.56,
+        "ProbCond":0.836
+    },
+    "Motor":{
+        "ProbInd":0.026,
+        "ProbCond":0.178
+    },
+    "Fatiga":{
+        "ProbInd":0.459,
+        "ProbCond":0.899
+    },
+    "Culpabilidad":{
+        "ProbInd":0.22,
+        "ProbCond":0.64
+    },
+    "NoConcentracion":{
+        "ProbInd":0.17,
+        "ProbCond":0.31
+    },
+    "PMuerte":{
+        "ProbInd":0.12,
+        "ProbCond":0.675
+    },
+    "DeterioroSocial": {
+        "ProbInd": 0.6,
+        "ProbCond":0.45
+    },
+    "NoSustancias": {
+        "ProbInd": 0.1087,
+        "ProbCond": 0.000001
+    },
+    "Esquizofrenia": {
+        "ProbInd": 0.1087,
+        "ProbCond": 0.000001
+    },
+    "MoH": {
+        "ProbInd":0.0112,
+        "ProbCond":0.000001 
+    },
+    "ProbInd": 0.0278,
+    "ProbActual": 0
+}
